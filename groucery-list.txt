@@ -1,1 +1,3 @@
 "milk, bread, tacos" 
+ orange juice
+ coffe
